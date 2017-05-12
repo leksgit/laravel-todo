@@ -1,3 +1,22 @@
+<H1>Simple todo list with laravel </H1>
+
+Using: 
+<ul>
+    <li>laravel 5.4.22
+    <ul>
+        <li>Migrations</li>
+        <li>Seeds</li>
+        <li>Webpak mix</li>
+        <li>Validations</li>
+        <li>Forms</li>
+        <li>Auth</li>
+    </ul>
+    </li>
+    <li>Bootstrap</li>
+    <li>jQuery</li>
+    <li>Ajax</li>
+</ul>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
