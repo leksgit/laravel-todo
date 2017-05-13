@@ -17,6 +17,8 @@ Using:
     <li>Ajax</li>
 </ul>
 
+Example http://test2.wiscost.com.ua/login login:pass admin@gmail.com:secret or registre any email and pass
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
